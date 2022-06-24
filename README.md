@@ -8,7 +8,7 @@ The input text will be translated to the target language, the audio will be gene
 < To be filled >
 
 ## Steps to run
-Open the file DeepFake_Generator.ipynb in Google colab and execute. The generated video will be displayed at the end.
+Open the file **DeepFake_Generator_GradioUI.ipynb** in Google colab and execute. The generated video will be displayed at the end.
 < To be filled >
 
 ## Reference projects Used
