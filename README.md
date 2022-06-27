@@ -5,8 +5,9 @@ The input text will be translated to the target language, the audio will be gene
 < To be filled >
   
 ## Introduction
-Generating the Deep Fake videos consist of 5 steps. 
-![image](https://user-images.githubusercontent.com/97409925/175902151-cf53dbfe-7925-4506-b99b-36ca7b70f514.png)
+Generating the Deep Fake videos consist of 5 steps.  
+- The pipeline of the Generating Deep Fake Video is shown in below image:-
+ ![image](https://user-images.githubusercontent.com/97409925/175902151-cf53dbfe-7925-4506-b99b-36ca7b70f514.png)
 
 # 1. Text to Text
    About the Model used:
@@ -16,7 +17,8 @@ Generating the Deep Fake videos consist of 5 steps.
 - Found on Huggingface under “facebook/wmt19-de-en”
 
 # 2. Text to Speech
-
+- In this step we are converting speech from text.
+- 
 # 3. Voice Cloning
 # 4. Lip Sync
 
