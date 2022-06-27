@@ -17,14 +17,19 @@ Generating the Deep Fake videos consist of 5 steps.
 - Found on Huggingface under “facebook/wmt19-de-en”
 
 # 2. Text to Speech
-- In this step we are converting speech from text.
-- 
+- In this step we are generating speech from text.
+- For this we are using TACATRON from Google.
+- It is a GAN(Generative Adversarial Network)
+ 
 # 3. Voice Cloning
+
+
+
 # 4. Lip Sync
 
 ## Steps to run
 Open the file **DeepFake_Generator_GradioUI.ipynb** in Google colab and execute. The gradio interface can be used to input a German text and choose a celebrity. The video will be displayed after execution.
-< To be filled >
 
 ## Reference projects Used
-< To be filled >
+
+
