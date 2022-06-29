@@ -39,8 +39,8 @@ Generating the Deep Fake videos consist of 5 steps.
 # 4. Lip Sync
 - Model Used “Wav2Lip”
 - Lip-synching a video to any audio containing speech with high level of accuracy.
--It uses Generative Adversarial Networks(GANs)
--In this step we are taking the output of voice cloning and combining with the video and we will get the result of Lip Syncing video
+- It uses Generative Adversarial Networks(GANs)
+- In this step we are taking the output of voice cloning and combining with the video and we will get the result of Lip Syncing video
 
 ## Steps to run
 - Open the file **DeepFake_Generator_GradioUI.ipynb** in Google colab and execute.
