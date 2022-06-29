@@ -33,6 +33,15 @@ Generating the Deep Fake videos consist of 5 steps.
 ## Steps to run
 Open the file **DeepFake_Generator_GradioUI.ipynb** in Google colab and execute. The gradio interface can be used to input a German text and choose a celebrity. The video will be displayed after execution.
 
+![image](https://user-images.githubusercontent.com/97409925/176398857-68eb8da4-7739-4109-8913-1708c976a7a9.png)
+
+![image](https://user-images.githubusercontent.com/97409925/176399018-9dea8648-54ad-4337-806a-67163d1a097f.png)
+
+
+![image](https://user-images.githubusercontent.com/97409925/176399681-e8627116-4440-4c00-be60-6c1ea98f76d8.png)
+
+
 ## Reference projects Used
+
 
 
