@@ -22,6 +22,18 @@ Generating the Deep Fake videos consist of 5 steps.
  
 # 3. Voice Cloning
 
+- Voice cloning is the process of generating the speech of real individual using computer. 
+- applying AI algorithms to replicate their unique voice in a similar manner.
+- In this project we are using Tacatron from google
+- Tacatron is a Generative Adversarial Network(GAN)
+- Three componets are improtant for Voice cloning
+   1. Encoder - The task of an encoder network is to take audio from a specific speaker as input and turn it into a low-dimensional vector embedding that captures the features of that speaker's speech. It is just concerned with the speaker's manner of speaking; it gives little thought to what they are saying.
+   2. Synthesizer -  is the fundamental model of text-to-speech. It creates a spectrogram of the relevant text input after receiving the phoneme sequence as input.       Phonemes are individual components of a word's sound. Each phrase is broken down into these phonemes, and the model's input sequence is created.
+   3. Vocoder -  is a type of audio processor that records the distinctive features of an audio stream and then applies those elements to other audio signals.
+   
+   
+   ![image](https://user-images.githubusercontent.com/97409925/176412003-35d83d8c-7428-4fa0-b580-d8903e662d49.png)
+
 
 
 # 4. Lip Sync
