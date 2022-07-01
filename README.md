@@ -6,7 +6,8 @@ The input text will be translated to the target language, the audio will be gene
 ## Introduction
 Generating the Deep Fake videos consist of 5 steps.  
 - The pipeline of the Generating Deep Fake Video is shown in below image:-
- ![image](https://user-images.githubusercontent.com/97409925/175902151-cf53dbfe-7925-4506-b99b-36ca7b70f514.png)
+ ![image](https://user-images.githubusercontent.com/97409925/176904072-c6de6a49-1cba-4ae5-ab32-51617e72ec84.png)
+
 
 # 1. Text to Text
    About the Model used:
